@@ -6,29 +6,31 @@
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
 	"font_size": 14,
-	"ignored_packages":
-	[
+	"ignored_packages": [
 		"Markdown",
 		"Vintage"
 	],
-	"indent_guide_options":
-	[
+	"indent_guide_options": [
 		"draw_normal",
 		"draw_active"
+	],
+	"font_options": [
+		"gray_antialias",
+		"subpixel_antialias"
 	],
 	"line_padding_bottom": 2.5,
 	"line_padding_top": 2.5,
 	"material_theme_accent_indigo": true,
-	"material_theme_bold_tab": true,
 	"material_theme_contrast_mode": true,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tabs_separator": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_compact_panel": true,
 	"overlay_scroll_bars": false,
-	"rulers":
-	[
+	"rulers": [
 		80,
 		100,
 		120
